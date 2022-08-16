@@ -1,0 +1,187 @@
+{
+  "defaultScene": {
+    "key": "OBS_KEY_1",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": true,
+      "command": true
+    }
+  },
+  "c1n43": {
+    "details": {
+      "sceneName": "RANDOM CAM",
+      "sequencerNumber": 16
+    },
+    "key": "OBS_KEY_1",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    }
+  },
+  "c1n51": {
+    "details": {
+      "sceneName": "RANDOM NO CAM",
+      "sequencerNumber": 8
+    },
+    "key": "OBS_KEY_2",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    }
+  },
+  "c1n39": {
+    "details": {
+      "sceneName": "VID CHOPS",
+      "sequencerNumber": 12
+    },
+    "key": "OBS_KEY_7",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    },
+    "vlc": {
+      "sleepDuration": 1,
+      "fastForwardSeconds": 15,
+      "nextTrackLoopCounter": 5,
+      "fastForwardLoopCounter": 3
+    }
+  },
+  "c1n47": {
+    "details": {
+      "sceneName": "VID CHOPS B/W",
+      "sequencerNumber": 4
+    },
+    "key": "OBS_KEY_8",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    },
+    "vlc": {
+      "sleepDuration": 2,
+      "fastForwardSeconds": 7,
+      "nextTrackLoopCounter": 5,
+      "fastForwardLoopCounter": 3
+    }
+  },
+  "c1n36": {
+    "details": {
+      "sceneName": "ST LOGO",
+      "sequencerNumber": 9
+    },
+    "key": "OBS_KEY_9",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    }
+  },
+  "c1n44": {
+    "details": {
+      "sceneName": "3D Heart",
+      "sequencerNumber": 1
+    },
+    "key": "OBS_KEY_0",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    }
+  },
+  "c1n42": {
+    "details": {
+      "sceneName": "3D Decks",
+      "sequencerNumber": 15
+    },
+    "key": "OBS_KEY_3",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    }
+  },
+  "c1n50": {
+    "details": {
+      "sceneName": "3D GOPRO",
+      "sequencerNumber": 7
+    },
+    "key": "OBS_KEY_4",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    }
+  },
+  "c1n37": {
+    "details": {
+      "sceneName": "DOGE CAM",
+      "sequencerNumber": 10
+    },
+    "key": "OBS_KEY_5",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    }
+  },
+  "c1n45": {
+    "details": {
+      "sceneName": "HOOMAN CAM",
+      "sequencerNumber": 2
+    },
+    "key": "OBS_KEY_6",
+    "keyModifiers": {
+      "shift": false,
+      "alt": false,
+      "control": false,
+      "command": true
+    }
+  },
+  "c1n49": {
+    "details": {
+      "sceneName": "3D -- GOPRO 2",
+      "sequencerNumber": 6
+    }
+  },
+    "c1n46": {
+      "details": {
+        "sceneName": "MAIN -- LEG CAM",
+        "sequencerNumber": 3
+      }
+  },
+  "c9n44": {
+    "details": {
+      "sceneName": "STROBE -- GOPRO",
+      "sequencerNumber": 2
+    },
+    "requiresLoop": true
+  },
+  "c1c17": {
+    "operation": "BPM"
+  },
+  "c1c91": {
+    "operation": "fastForwardSeconds"
+  },
+  "c1c79": {
+    "operation": "nextTrackLoopCounter"
+  },
+  "c1c72": {
+    "operation": "fastForwardLoopCounter"
+  },
+  "c1c75": {
+    "operation": "vlcPlaylistSelect"
+  }
+}
